@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Yahtzee
+comment1.params=
+comment1.target=void\ roll()
+comment1.text=\n\ Roll\ the\ die\!\ Generate\ random\ number\ 1\ <\=\ x\ <\=\ 6\ and\ assign\ to\ value\n\ Note\ that\ roll\ does\ NOT\ return\ the\ new\ value\n
+comment2.params=dieNumber
+comment2.target=int\ roll(int)
+comment3.params=
+comment3.target=java.lang.String\ summarize()
+comment4.params=
+comment4.target=java.lang.String\ rollAndGetValue()
+comment4.text=\n\ Roll\ the\ die\ and\ return\ the\ new\ value\n\ @return\ Die\ value\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
